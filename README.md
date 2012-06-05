@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to Radiant
 
 Radiant is a no-fluff, open source content management system designed for
@@ -83,9 +82,3 @@ Enjoy!
 --
 The Radiant Dev Team
 http://radiantcms.org
-=======
-garstangcabs
-============
-
-Garstang Country Cabs web application system
->>>>>>> 3bcfd4b34e53251ec5a814b5b1d7e62cd7962b41
