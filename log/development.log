@@ -1,0 +1,3919 @@
+# Logfile created on 2012-06-05 18:22:21 -0500  [4;36;1mSQL (7.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (16.9ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (3.0ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("schema_migrations")[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateRadiantTables (1)
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "config" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "key" varchar(40) DEFAULT '' NOT NULL, "value" varchar(255) DEFAULT '') [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("config")[0m
+  [4;36;1mSQL (9.4ms)[0m   [0;1mCREATE UNIQUE INDEX "key" ON "config" ("key")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "behavior" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "page_parts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "filter" varchar(25), "content" text, "page_id" integer) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("snippets")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "name" ON "snippets" ("name")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "layouts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "content" text, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "admin" integer(1) DEFAULT 0 NOT NULL, "developer" integer(1) DEFAULT 0 NOT NULL, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('1')[0m
+Migrating to InsertInitialData (2)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('2')[0m
+Migrating to RenameBehaviorColumn (3)
+  [4;35;1mSQL (0.3ms)[0m   [0mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "behavior_id" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "pages"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "behavior_id" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_pages"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('3')[0m
+Migrating to RenameFilterColumn (4)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_page_parts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "filter_id" varchar(25), "content" text, "page_id" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("page_parts")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "page_parts"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "page_parts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "filter_id" varchar(25), "content" text, "page_id" integer) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_page_parts")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_page_parts"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter_id" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("snippets")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_snippets")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "temp_name" ON "altered_snippets" ("name")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "snippets"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter_id" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_snippets")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("snippets")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "name" ON "snippets" ("name")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_snippets"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('4')[0m
+Migrating to AddVirtualColumnToPage (5)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "pages" ADD "virtual" boolean DEFAULT 'f' NOT NULL[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('5')[0m
+Migrating to IntegerColumnsToBoolean (6)
+  [4;35;1mUser Load (0.1ms)[0m   [0mSELECT * FROM "users" ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "admin" integer(1) DEFAULT 0 NOT NULL, "developer" integer(1) DEFAULT 0 NOT NULL, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('login')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mPRAGMA index_list("altered_users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "users"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "developer" integer(1) DEFAULT 0 NOT NULL, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_login')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_users"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "users" ADD "admin" boolean DEFAULT 'f' NOT NULL[0m
+  [4;35;1mUser Load (0.1ms)[0m   [0mSELECT * FROM "users" ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "developer" integer(1) DEFAULT 0 NOT NULL, "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer, "admin" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('login')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "users"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by" integer, "updated_by" integer, "admin" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_login')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_users"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "users" ADD "developer" boolean DEFAULT 'f' NOT NULL[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('6')[0m
+Migrating to RemoveVirtualColumnFromPage (7)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "behavior_id" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "pages"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "behavior_id" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_pages"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('7')[0m
+Migrating to AddVirtualColumnToPageAgain (8)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "pages" ADD "virtual" boolean DEFAULT 'f' NOT NULL[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('8')[0m
+Migrating to AddContentTypeFieldToLayout (9)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "layouts" ADD "content_type" varchar(40)[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('9')[0m
+Migrating to MergeBehaviorsAndPages (10)
+  [4;35;1mMergeBehaviorsAndPages::OldPage Load (0.1ms)[0m   [0mSELECT * FROM "pages" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "type" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mDROP TABLE "pages"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "type" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_pages"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('10')[0m
+Migrating to RenameTypeColumnOnPageToClassName (11)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "pages"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_pages"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('11')[0m
+Migrating to CreateExtensionMeta (12)
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "extension_meta" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "schema_version" integer DEFAULT 0, "enabled" boolean DEFAULT 't') [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('12')[0m
+Migrating to AddNotesFieldToUser (13)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "users" ADD "notes" text[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('13')[0m
+Migrating to RenameConfigDefaultPartsKey (14)
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'default.parts') LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('14')[0m
+Migrating to AddOptimisticLocking (15)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "pages" ADD "lock_version" integer DEFAULT 0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "layouts" ADD "lock_version" integer DEFAULT 0[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "snippets" ADD "lock_version" integer DEFAULT 0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "users" ADD "lock_version" integer DEFAULT 0[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('15')[0m
+Migrating to AddSessions (16)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "sessions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "session_id" varchar(255), "data" text, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("sessions")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "index_sessions_on_session_id" ON "sessions" ("session_id")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("sessions")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_sessions_on_session_id')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "index_sessions_on_updated_at" ON "sessions" ("updated_at")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('16')[0m
+Migrating to RenameCreatedByUpdatedByColumns (17)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "pages"[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_pages"[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "pages"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_pages"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE TEMPORARY TABLE "altered_snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter_id" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by" integer, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("snippets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_snippets")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "temp_name" ON "altered_snippets" ("name")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "snippets"[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter_id" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by" integer, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_snippets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("snippets")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "name" ON "snippets" ("name")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_snippets"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE TEMPORARY TABLE "altered_snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter_id" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("snippets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_snippets")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "temp_name" ON "altered_snippets" ("name")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "snippets"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "snippets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100) DEFAULT '' NOT NULL, "filter_id" varchar(25), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_snippets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("snippets")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "name" ON "snippets" ("name")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_snippets"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE TEMPORARY TABLE "altered_layouts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by" integer, "content_type" varchar(40), "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("layouts")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "layouts"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "layouts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by" integer, "content_type" varchar(40), "lock_version" integer DEFAULT 0) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_layouts")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_layouts"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_layouts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "content_type" varchar(40), "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("layouts")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "layouts"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "layouts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "content" text, "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "content_type" varchar(40), "lock_version" integer DEFAULT 0) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_layouts")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_layouts"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by" integer, "admin" boolean DEFAULT 'f' NOT NULL, "developer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "users"[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by" integer, "admin" boolean DEFAULT 'f' NOT NULL, "developer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_users"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "developer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('login')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "users"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "developer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_users"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('17')[0m
+Migrating to AddDescriptionAndKeywordsToPages (18)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mALTER TABLE "pages" ADD "description" varchar(255)[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "pages" ADD "keywords" varchar(255)[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('18')[0m
+Migrating to AddSaltToUsers (19)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "users" ADD "salt" varchar(255)[0m
+  [4;36;1mUser Update (0.0ms)[0m   [0;1mUPDATE "users" SET "salt" = 'sweet harmonious biscuits' [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('19')[0m
+Migrating to AddSessionInfoToUsers (20)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mALTER TABLE "users" ADD "session_token" varchar(255)[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "users" ADD "session_expire" datetime[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20')[0m
+Migrating to RemoveSessionExpireFromUsers (21)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "developer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0, "salt" varchar(255), "session_token" varchar(255), "session_expire" datetime) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "users"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "developer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0, "salt" varchar(255), "session_token" varchar(255)) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_users"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('21')[0m
+Migrating to AddIndexes (20081203140407)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE INDEX "pages_class_name" ON "pages" ("class_name")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('pages_class_name')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "pages_parent_id" ON "pages" ("parent_id")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('pages_class_name')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "pages_child_slug" ON "pages" ("slug", "parent_id")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('pages_class_name')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "pages_published" ON "pages" ("virtual", "status_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_parts")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "parts_by_page" ON "page_parts" ("page_id", "name")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20081203140407')[0m
+Migrating to AddUserLanguage (20090226140109)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "users" ADD "language" varchar(255)[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090226140109')[0m
+Migrating to RenameDeveloperRoleToDesigner (20090929164633)
+  [4;35;1mSQL (0.3ms)[0m   [0mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "designer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0, "salt" varchar(255), "session_token" varchar(255), "language" varchar(255)) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mDROP TABLE "users"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "designer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0, "salt" varchar(255), "session_token" varchar(255), "language" varchar(255)) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_login')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_users"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090929164633')[0m
+Migrating to ChangeUserLanguageToLocale (20091003095744)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "designer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0, "salt" varchar(255), "session_token" varchar(255), "locale" varchar(255)) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('login')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE UNIQUE INDEX "temp_login" ON "altered_users" ("login")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "users"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(100), "email" varchar(255), "login" varchar(40) DEFAULT '' NOT NULL, "password" varchar(40), "created_at" datetime, "updated_at" datetime, "created_by_id" integer, "updated_by_id" integer, "admin" boolean DEFAULT 'f' NOT NULL, "designer" boolean DEFAULT 'f' NOT NULL, "notes" text, "lock_version" integer DEFAULT 0, "salt" varchar(255), "session_token" varchar(255), "locale" varchar(255)) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_login')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE UNIQUE INDEX "login" ON "users" ("login")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "altered_users"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20091003095744')[0m
+Migrating to AddPageFields (20100805154952)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "page_fields" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "page_id" integer, "name" varchar(255), "content" varchar(255)) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_fields")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "index_page_fields_on_page_id" ON "page_fields" ("page_id")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20100805154952')[0m
+Migrating to ConvertPageMetas (20100805155020)
+  [4;35;1mPage Load (0.1ms)[0m   [0mSELECT * FROM "pages" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0, "description" varchar(255), "keywords" varchar(255)) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('pages_published')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('pages_class_name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "temp_altered_pages_published" ON "altered_pages" ("virtual", "status_id")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_pages_published')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "temp_altered_pages_child_slug" ON "altered_pages" ("slug", "parent_id")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_pages_published')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "temp_altered_pages_parent_id" ON "altered_pages" ("parent_id")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_pages_published')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "temp_altered_pages_class_name" ON "altered_pages" ("class_name")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mDROP TABLE "pages"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0, "description" varchar(255)) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_pages_class_name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_pages_published')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "altered_pages_class_name" ON "pages" ("class_name")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "altered_pages_parent_id" ON "pages" ("parent_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "altered_pages_child_slug" ON "pages" ("slug", "parent_id")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "altered_pages_published" ON "pages" ("virtual", "status_id")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "altered_pages"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0, "description" varchar(255)) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_published')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE INDEX "temp_altered_altered_pages_published" ON "altered_pages" ("virtual", "status_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "temp_altered_altered_pages_child_slug" ON "altered_pages" ("slug", "parent_id")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "temp_altered_altered_pages_parent_id" ON "altered_pages" ("parent_id")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "temp_altered_altered_pages_class_name" ON "altered_pages" ("class_name")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mDROP TABLE "pages"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_class_name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "altered_pages_class_name" ON "pages" ("class_name")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "altered_pages_parent_id" ON "pages" ("parent_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "altered_pages_child_slug" ON "pages" ("slug", "parent_id")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "altered_pages_published" ON "pages" ("virtual", "status_id")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "altered_pages"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20100805155020')[0m
+Migrating to AddFieldNameIndex (20100810151922)
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("page_fields")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_page_fields_on_page_id')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP INDEX "index_page_fields_on_page_id"[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_fields")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "index_page_fields_on_page_id_and_name_and_content" ON "page_fields" ("page_id", "name", "content")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20100810151922')[0m
+Migrating to AddAllowedChildrenCacheToPages (20110902203823)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "pages" ADD "allowed_children_cache" varchar(1500) DEFAULT ''[0m
+  [4;36;1mPage Load (0.1ms)[0m   [0;1mSELECT * FROM "pages" WHERE (pages.id >= 0) ORDER BY pages.id ASC LIMIT 1000[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20110902203823')[0m
+Migrating to ExtendPagePartContentLimit (20111016150725)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20111016150725')[0m
+Migrating to ChangePagesAllowedChildrenCacheToText (20120209231801)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0, "allowed_children_cache" varchar(1500) DEFAULT '') [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_published')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "temp_altered_altered_pages_published" ON "altered_pages" ("virtual", "status_id")[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "temp_altered_altered_pages_child_slug" ON "altered_pages" ("slug", "parent_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "temp_altered_altered_pages_parent_id" ON "altered_pages" ("parent_id")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("altered_pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "temp_altered_altered_pages_class_name" ON "altered_pages" ("class_name")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "pages"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "slug" varchar(100), "breadcrumb" varchar(160), "class_name" varchar(25), "status_id" integer DEFAULT 1 NOT NULL, "parent_id" integer, "layout_id" integer, "created_at" datetime, "updated_at" datetime, "published_at" datetime, "created_by_id" integer, "updated_by_id" integer, "virtual" boolean DEFAULT 'f' NOT NULL, "lock_version" integer DEFAULT 0, "allowed_children_cache" text(1500) DEFAULT '') [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("altered_pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_class_name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('temp_altered_altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('temp_altered_altered_pages_published')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mCREATE INDEX "altered_pages_class_name" ON "pages" ("class_name")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "altered_pages_parent_id" ON "pages" ("parent_id")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE INDEX "altered_pages_child_slug" ON "pages" ("slug", "parent_id")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCREATE INDEX "altered_pages_published" ON "pages" ("virtual", "status_id")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_pages"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20120209231801')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("config")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('key')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("extension_meta")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("layouts")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("page_fields")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_page_fields_on_page_id_and_name_and_content')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("page_parts")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('parts_by_page')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("pages")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_published')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("sessions")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('index_sessions_on_updated_at')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_sessions_on_session_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("snippets")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('login')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Archive'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Clipped'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations WHERE version LIKE 'Paperclipped-%'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateAssets (1)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "assets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "caption" varchar(255), "title" varchar(255)) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('Clipped-1')[0m
+Migrating to CreatePaperclipAttributes (2)
+  [4;35;1mSQL (0.3ms)[0m   [0mALTER TABLE "assets" ADD "asset_file_name" varchar(255)[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "assets" ADD "asset_content_type" varchar(255)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mALTER TABLE "assets" ADD "asset_file_size" integer[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('Clipped-2')[0m
+Migrating to CreateUserObserver (3)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "assets" ADD "created_by" integer[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "assets" ADD "updated_by" integer[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mALTER TABLE "assets" ADD "created_at" datetime[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "assets" ADD "updated_at" datetime[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('Clipped-3')[0m
+Migrating to CreatePageAttachments (4)
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TABLE "page_attachments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "asset_id" integer, "page_id" integer, "position" integer) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('Clipped-4')[0m
+Migrating to RenameUsers (5)
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_assets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "caption" varchar(255), "title" varchar(255), "asset_file_name" varchar(255), "asset_content_type" varchar(255), "asset_file_size" integer, "created_by_id" integer, "updated_by" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("assets")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "assets"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "assets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "caption" varchar(255), "title" varchar(255), "asset_file_name" varchar(255), "asset_content_type" varchar(255), "asset_file_size" integer, "created_by_id" integer, "updated_by" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_assets")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_assets"[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mCREATE TEMPORARY TABLE "altered_assets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "caption" varchar(255), "title" varchar(255), "asset_file_name" varchar(255), "asset_content_type" varchar(255), "asset_file_size" integer, "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("assets")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mDROP TABLE "assets"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mCREATE TABLE "assets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "caption" varchar(255), "title" varchar(255), "asset_file_name" varchar(255), "asset_content_type" varchar(255), "asset_file_size" integer, "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_assets")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mDROP TABLE "altered_assets"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('Clipped-5')[0m
+Migrating to AssetUuid (20110513205050)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mALTER TABLE "assets" ADD "uuid" varchar(255)[0m
+  [4;35;1mAsset Load (0.1ms)[0m   [0mSELECT * FROM "assets" ORDER BY created_at DESC[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('Clipped-20110513205050')[0m
+Migrating to UpdateConfiguration (20110606111250)
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" [0m
+Cache write: Radiant::Config
+Cache write: Radiant.cache_mtime
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('Clipped-20110606111250')[0m
+Migrating to Dimensions (20110609101438)
+  [4;35;1mSQL (0.2ms)[0m   [0mALTER TABLE "assets" ADD "original_width" integer[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mALTER TABLE "assets" ADD "original_height" integer[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mALTER TABLE "assets" ADD "original_extension" varchar(255)[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('Clipped-20110609101438')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Debug'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Exporter'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Markdown Filter'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Sheets'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Site Templates'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Smarty Pants Filter'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Snippets'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT schema_version FROM extension_meta WHERE name = 'Textile Filter'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("assets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("config")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('key')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("extension_meta")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("layouts")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("page_attachments")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_fields")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('index_page_fields_on_page_id_and_name_and_content')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_parts")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('parts_by_page')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_published')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("sessions")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_sessions_on_updated_at')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('index_sessions_on_session_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("snippets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('login')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("assets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("config")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('key')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("extension_meta")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("layouts")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("page_attachments")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_fields")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('index_page_fields_on_page_id_and_name_and_content')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("page_parts")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('parts_by_page')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("pages")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_published')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_child_slug')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('altered_pages_parent_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('altered_pages_class_name')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("sessions")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_sessions_on_updated_at')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('index_sessions_on_session_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("snippets")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('name')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('login')[0m
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."login" = 'emmanu0') ORDER BY name LIMIT 1[0m
+  [4;35;1mUser Load (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'emmanu0') LIMIT 1[0m
+  [4;36;1mUser Create (0.2ms)[0m   [0;1mINSERT INTO "users" ("name", "email", "login", "password", "created_at", "updated_at", "created_by_id", "updated_by_id", "admin", "designer", "notes", "lock_version", "salt", "session_token", "locale") VALUES('bunnybacon', NULL, 'emmanu0', '0098cc9c30e51012f2714d467a4b45bdcf550473', '2012-06-05 23:23:09', '2012-06-05 23:23:09', NULL, NULL, 't', 'f', NULL, 0, '032387d837a2c5f08a86142d26fda12a51e05217', NULL, NULL)[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'admin.title') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('admin.title', 'Radiant CMS')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'admin.subtitle') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('admin.subtitle', 'Publishing for Small Teams')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.parts') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('defaults.page.parts', 'body, extended')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.status') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.2ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('defaults.page.status', 'Draft')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.filter') LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.fields') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('defaults.page.fields', 'Keywords, Description')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'session_timeout') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('session_timeout', '1209600')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'default_locale') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('default_locale', 'en')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Cache read: Radiant.cache_mtime
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" [0m
+Cache write: Radiant::Config
+Cache write: Radiant.cache_mtime
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'pagination.param_name') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.2ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('pagination.param_name', 'page')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'pagination.per_page_param_name') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('pagination.per_page_param_name', 'per_page')[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'admin.pagination.per_page') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('admin.pagination.per_page', '50')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'site.title') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('site.title', 'Your site title')[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'site.host') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('site.host', 'www.example.com')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'user.allow_password_reset?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('user.allow_password_reset?', 'true')[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'paperclip.url') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('paperclip.url', '/system/:attachment/:id/:style/:basename:no_original_style.:extension')[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'paperclip.path') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('paperclip.path', ':rails_root/public/system/:attachment/:id/:style/:basename:no_original_style.:extension')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'paperclip.skip_filetype_validation') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('paperclip.skip_filetype_validation', 'true')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'paperclip.storage') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('paperclip.storage', 'filesystem')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'paperclip.fog.public?') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('paperclip.fog.public?', 'true')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_image_thumbnails?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('assets.create_image_thumbnails?', 'true')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_video_thumbnails?') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('assets.create_video_thumbnails?', 'true')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_pdf_thumbnails?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('assets.create_pdf_thumbnails?', 'true')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.thumbnails.image') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('assets.thumbnails.image', 'normal:size=640x640>|small:size=320x320>')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.thumbnails.video') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('assets.thumbnails.video', 'normal:size=640x640>,format=jpg|small:size=320x320>,format=jpg')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.thumbnails.pdf') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('assets.thumbnails.pdf', 'normal:size=640x640>,format=jpg|small:size=320x320>,format=jpg')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.max_asset_size') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('assets.max_asset_size', '5')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.display_size') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('assets.display_size', 'normal')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.insertion_size') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('assets.insertion_size', 'normal')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2012-06-05 18:24:16) [GET]
+  Parameters: {"controller"=>"site", "action"=>"show_page", "url"=>"/"}
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mPage Load (0.1ms)[0m   [0mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Redirected to http://localhost:3000/admin/welcome
+Completed in 7ms (DB: 2) | 302 Found [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::WelcomeController#index (for 127.0.0.1 at 2012-06-05 18:24:17) [GET]
+  Parameters: {"controller"=>"admin/welcome", "action"=>"index"}
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Redirected to http://localhost:3000/admin/pages
+Completed in 4ms (DB: 1) | 302 Found [http://localhost/admin/welcome]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2012-06-05 18:24:18) [GET]
+  Parameters: {"controller"=>"admin/pages", "action"=>"index"}
+Redirected to http://localhost:3000/admin/login
+Filter chain halted as [:authenticate] rendered_or_redirected.
+Completed in 8ms (DB: 0) | 302 Found [http://localhost/admin/pages]
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::WelcomeController#login (for 127.0.0.1 at 2012-06-05 18:24:19) [GET]
+  Parameters: {"controller"=>"admin/welcome", "action"=>"login"}
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendering template within layouts/application
+Rendering admin/welcome/login
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 77ms (View: 73, DB: 1) | 200 OK [http://localhost/admin/login]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::WelcomeController#login (for 127.0.0.1 at 2012-06-05 18:24:26) [POST]
+  Parameters: {"authenticity_token"=>"Uxw1ZzTaVrqhnqWL2ZCNDxyj733lmoPDqHWs3CtE05I=", "username_or_email"=>"emmanu0", "password"=>"[FILTERED]", "controller"=>"admin/welcome", "action"=>"login"}
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = 'emmanu0' OR email = 'emmanu0') ORDER BY name LIMIT 1[0m
+Redirected to http://localhost:3000/admin/pages
+Completed in 10ms (DB: 1) | 302 Found [http://localhost/admin/login]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2012-06-05 18:24:27) [GET]
+  Parameters: {"controller"=>"admin/pages", "action"=>"index"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mPage Load (0.5ms)[0m   [0mSELECT * FROM "pages" [0m
+  [4;36;1mPage Load (0.2ms)[0m   [0;1mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Rendering template within layouts/application
+Rendering admin/pages/index
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 240ms (View: 154, DB: 2) | 200 OK [http://localhost/admin/pages]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::ConfigurationController#show (for 127.0.0.1 at 2012-06-05 18:24:32) [GET]
+  Parameters: {"controller"=>"admin/configuration", "action"=>"show"}
+  [4;36;1mUser Load (48.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendering template within layouts/application
+Rendering admin/configuration/show
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'site.title') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'site.host') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'dev.host') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('dev.host', '')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'local.timezone') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('local.timezone', '')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.locale') LIMIT 1[0m
+  [4;36;1mRadiant::Config Create (0.1ms)[0m   [0;1mINSERT INTO "config" ("key", "value") VALUES('defaults.locale', '')[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" [0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.filter') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('defaults.page.filter', '')[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.parts') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.fields') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.status') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.snippet.filter') LIMIT 1[0m
+  [4;35;1mRadiant::Config Create (0.1ms)[0m   [0mINSERT INTO "config" ("key", "value") VALUES('defaults.snippet.filter', '')[0m
+  [4;36;1mRadiant::Config Load (0.3ms)[0m   [0;1mSELECT * FROM "config" [0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'user.allow_password_reset?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.max_asset_size') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.display_size') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.insertion_size') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_image_thumbnails?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_video_thumbnails?') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_pdf_thumbnails?') LIMIT 1[0m
+Rendered admin/configuration/_clipped_show (5.2ms)
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 353ms (View: 292, DB: 52) | 200 OK [http://localhost/admin/configuration]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PreferencesController#show (for 127.0.0.1 at 2012-06-05 18:24:38) [GET]
+  Parameters: {"controller"=>"admin/preferences", "action"=>"show"}
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendering template within layouts/application
+Rendering admin/preferences/edit
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendered admin/users/_avatar (1.7ms)
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'emmanu0' AND "users".id <> 1) LIMIT 1[0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'emmanu0' AND "users".id <> 1) LIMIT 1[0m
+Rendered admin/users/_password_fields (8.0ms)
+Completed in 302ms (View: 292, DB: 1) | 200 OK [http://localhost/admin/preferences]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PreferencesController#update (for 127.0.0.1 at 2012-06-05 18:24:52) [PUT]
+  Parameters: {"_method"=>"put", "authenticity_token"=>"Uxw1ZzTaVrqhnqWL2ZCNDxyj733lmoPDqHWs3CtE05I=", "user"=>{"name"=>"bunnybacon", "email"=>"OkonPersonal@gmail.com", "login"=>"Bunnybacon", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "locale"=>""}, "commit"=>"Save Changes", "controller"=>"admin/preferences", "action"=>"update"}
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'Bunnybacon' AND "users".id <> 1) LIMIT 1[0m
+Rendering template within layouts/application
+Rendering admin/preferences/edit
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendered admin/users/_avatar (1.5ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'Bunnybacon' AND "users".id <> 1) LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'Bunnybacon' AND "users".id <> 1) LIMIT 1[0m
+Rendered admin/users/_password_fields (57.1ms)
+Completed in 304ms (View: 286, DB: 1) | 200 OK [http://localhost/admin/preferences]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PreferencesController#update (for 127.0.0.1 at 2012-06-05 18:25:03) [PUT]
+  Parameters: {"_method"=>"put", "authenticity_token"=>"Uxw1ZzTaVrqhnqWL2ZCNDxyj733lmoPDqHWs3CtE05I=", "user"=>{"name"=>"bunnybacon", "email"=>"OkonPersonal@gmail.com", "login"=>"Bunnybacon", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "locale"=>""}, "commit"=>"Save Changes", "controller"=>"admin/preferences", "action"=>"update"}
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mUser Load (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'Bunnybacon' AND "users".id <> 1) LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mUser Update with optimistic locking (0.2ms)[0m   [0m UPDATE "users"
+ SET "email" = 'OkonPersonal@gmail.com', "login" = 'Bunnybacon', "password" = '9789fc1de77bbf981005b4c6b5617cc220a3a28b', "locale" = '', "salt" = 'aca14c108d7b5049c463e652db874c791177dfef', "updated_by_id" = 1, "updated_at" = '2012-06-05 23:25:03', "lock_version" = 1
+ WHERE id = 1
+ AND "lock_version" = 0
+[0m
+Redirected to http://localhost:3000/admin/configuration
+Completed in 70ms (DB: 2) | 302 Found [http://localhost/admin/preferences]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::ConfigurationController#show (for 127.0.0.1 at 2012-06-05 18:25:04) [GET]
+  Parameters: {"controller"=>"admin/configuration", "action"=>"show"}
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendering template within layouts/application
+Rendering admin/configuration/show
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'site.title') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'site.host') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'dev.host') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'local.timezone') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.locale') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.filter') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.parts') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.fields') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.status') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.snippet.filter') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'user.allow_password_reset?') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.max_asset_size') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.display_size') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.insertion_size') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_image_thumbnails?') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_video_thumbnails?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_pdf_thumbnails?') LIMIT 1[0m
+Rendered admin/configuration/_clipped_show (5.3ms)
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 336ms (View: 326, DB: 3) | 200 OK [http://localhost/admin/configuration]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::LayoutsController#index (for 127.0.0.1 at 2012-06-05 18:25:17) [GET]
+  Parameters: {"controller"=>"admin/layouts", "action"=>"index"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mLayout Load (0.1ms)[0m   [0;1mSELECT * FROM "layouts" ORDER BY name LIMIT 50 OFFSET 0[0m
+Rendering template within layouts/application
+Rendering admin/layouts/index
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 286ms (View: 274, DB: 1) | 200 OK [http://localhost/admin/layouts]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::AssetsController#index (for 127.0.0.1 at 2012-06-05 18:25:20) [GET]
+  Parameters: {"controller"=>"admin/assets", "action"=>"index"}
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mAsset Load (0.1ms)[0m   [0mSELECT * FROM "assets" ORDER BY created_at DESC LIMIT 50 OFFSET 0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "assets" ORDER BY created_at DESC LIMIT 50 OFFSET 0[0m
+Rendering template within layouts/application
+Rendering admin/assets/index
+Rendered admin/assets/_search (9.9ms)
+Rendered admin/assets/_asset_table (3.3ms)
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 173ms (View: 161, DB: 1) | 200 OK [http://localhost/admin/assets/]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2012-06-05 18:25:22) [GET]
+  Parameters: {"controller"=>"admin/pages", "action"=>"index"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mPage Load (0.2ms)[0m   [0mSELECT * FROM "pages" [0m
+  [4;36;1mPage Load (0.2ms)[0m   [0;1mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Rendering template within layouts/application
+Rendering admin/pages/index
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 235ms (View: 147, DB: 1) | 200 OK [http://localhost/admin/pages]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::ConfigurationController#show (for 127.0.0.1 at 2012-06-05 18:25:40) [GET]
+  Parameters: {"controller"=>"admin/configuration", "action"=>"show"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendering template within layouts/application
+Rendering admin/configuration/show
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'site.title') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'site.host') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'dev.host') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'local.timezone') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.locale') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.filter') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.parts') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.fields') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.page.status') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.2ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'defaults.snippet.filter') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'user.allow_password_reset?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.max_asset_size') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.display_size') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.insertion_size') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_image_thumbnails?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Load (0.1ms)[0m   [0;1mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_video_thumbnails?') LIMIT 1[0m
+  [4;35;1mRadiant::Config Load (0.1ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_pdf_thumbnails?') LIMIT 1[0m
+Rendered admin/configuration/_clipped_show (5.4ms)
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 334ms (View: 277, DB: 3) | 200 OK [http://localhost/admin/configuration]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::UsersController#index (for 127.0.0.1 at 2012-06-05 18:25:45) [GET]
+  Parameters: {"controller"=>"admin/users", "action"=>"index"}
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" ORDER BY name LIMIT 50 OFFSET 0[0m
+Rendering template within layouts/application
+Rendering admin/users/index
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 237ms (View: 225, DB: 2) | 200 OK [http://localhost/admin/users]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::ExtensionsController#index (for 127.0.0.1 at 2012-06-05 18:25:52) [GET]
+  Parameters: {"controller"=>"admin/extensions", "action"=>"index"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Rendering template within layouts/application
+Rendering admin/extensions/index
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 255ms (View: 231, DB: 1) | 200 OK [http://localhost/admin/extensions]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Cache read: Radiant.cache_mtime
+  [4;35;1mRadiant::Config Load (0.3ms)[0m   [0mSELECT * FROM "config" [0m
+Cache write: Radiant::Config
+Cache write: Radiant.cache_mtime
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+[32mCommand[0m :: convert -version
+[Clipped] Using image thumbnailer: ImageMagick 6.6.2-6 2012-04-30 Q16 http://www.imagemagick.org
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+[32mCommand[0m :: gs -v
+[Clipped] Using PDF thumbnailer: GPL Ghostscript 9.01 (2011-02-07)
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+[32mCommand[0m :: ffmpeg -version 2> /dev/null
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mRadiant::Config Load (0.2ms)[0m   [0mSELECT * FROM "config" WHERE ("config"."key" = 'assets.create_video_thumbnails?') LIMIT 1[0m
+  [4;36;1mRadiant::Config Update (0.2ms)[0m   [0;1mUPDATE "config" SET "value" = 'false' WHERE "id" = 20[0m
+  [4;35;1mRadiant::Config Load (32.7ms)[0m   [0mSELECT * FROM "config" [0m
+FFmpeg executable not found: video thumbnailing disabled.
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2012-06-05 18:31:49) [GET]
+  Parameters: {"controller"=>"site", "action"=>"show_page", "url"=>"/"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mPage Load (0.1ms)[0m   [0mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Redirected to http://localhost:3000/admin/welcome
+Completed in 56ms (DB: 2) | 302 Found [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::WelcomeController#index (for 127.0.0.1 at 2012-06-05 18:31:50) [GET]
+  Parameters: {"controller"=>"admin/welcome", "action"=>"index"}
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Redirected to http://localhost:3000/admin/pages
+Completed in 8ms (DB: 1) | 302 Found [http://localhost/admin/welcome]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2012-06-05 18:31:51) [GET]
+  Parameters: {"controller"=>"admin/pages", "action"=>"index"}
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mPage Load (0.2ms)[0m   [0;1mSELECT * FROM "pages" [0m
+  [4;35;1mPage Load (0.2ms)[0m   [0mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Rendering template within layouts/application
+Rendering admin/pages/index
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 235ms (View: 197, DB: 1) | 200 OK [http://localhost/admin/pages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing SiteController#show_page (for 127.0.0.1 at 2012-06-05 18:31:58) [GET]
+  Parameters: {"controller"=>"site", "action"=>"show_page", "url"=>"/"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mPage Load (0.1ms)[0m   [0mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Redirected to http://localhost:3000/admin/welcome
+Completed in 12ms (DB: 2) | 302 Found [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::WelcomeController#index (for 127.0.0.1 at 2012-06-05 18:31:59) [GET]
+  Parameters: {"controller"=>"admin/welcome", "action"=>"index"}
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Redirected to http://localhost:3000/admin/pages
+Completed in 8ms (DB: 1) | 302 Found [http://localhost/admin/welcome]
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
+
+
+Processing Admin::PagesController#index (for 127.0.0.1 at 2012-06-05 18:32:00) [GET]
+  Parameters: {"controller"=>"admin/pages", "action"=>"index"}
+  [4;35;1mUser Load (1.7ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) ORDER BY name[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mPage Load (0.2ms)[0m   [0;1mSELECT * FROM "pages" [0m
+  [4;35;1mPage Load (0.2ms)[0m   [0mSELECT * FROM "pages" WHERE ("pages"."parent_id" IS NULL) LIMIT 1[0m
+Rendering template within layouts/application
+Rendering admin/pages/index
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 229ms (View: 145, DB: 3) | 200 OK [http://localhost/admin/pages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT DISTINCT class_name FROM pages WHERE class_name <> '' AND class_name IS NOT NULL[0m
